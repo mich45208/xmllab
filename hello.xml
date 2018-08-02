@@ -1,0 +1,7 @@
+<ROOT>
+    <Messages>hello world</Messages>
+    <Lists>
+        <item>item1</item>
+        <item>item2</item>
+    </Lists>
+</ROOT>

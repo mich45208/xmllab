@@ -1,0 +1,46 @@
+<scheduler_reply>
+<scheduler_version>713</scheduler_version>
+<dont_use_dcf/>
+<master_url>http://ankr.s2/ankr_project/</master_url>
+<request_delay>7.000000</request_delay>
+<message priority="low">Project has no tasks available</message>
+<project_name>ankr_project</project_name>
+<userid>1</userid>
+<user_name>boincadm</user_name>
+<user_total_credit>43.310674</user_total_credit>
+<user_expavg_credit>2.823698</user_expavg_credit>
+<user_create_time>1532541545</user_create_time>
+<email_hash>1b2304eebb76ac5eb5409ee09bd590ef</email_hash>
+<cross_project_id>91a602aa42b7ef77aed044d7d4d2cbab</cross_project_id>
+<external_cpid>005413e4c13c23ba43aea92e710e4b0f</external_cpid>
+
+<host_total_credit>36.303255</host_total_credit>
+<host_expavg_credit>2.376268</host_expavg_credit>
+<host_venue></host_venue>
+<host_create_time>1532541557</host_create_time>
+<team_name></team_name>
+<gui_urls>
+    <gui_url>
+        <name>Message boards</name>
+        <description>Correspond with other users on the ankr_project message boards</description>
+        <url>http://ankr.s2/ankr_project/forum_index.php</url>
+    </gui_url>
+    <gui_url>
+        <name>Your account</name>
+        <description>View your account information</description>
+        <url>http://ankr.s2/ankr_project/home.php</url>
+    </gui_url>
+    <gui_url>
+        <name>Your tasks</name>
+        <description>View the last week or so of computational work</description>
+        <url>http://ankr.s2/ankr_project/results.php?userid=1</url>
+    </gui_url>
+    
+</gui_urls>
+<rss_feeds>
+    <rss_feed>
+        <url>http://ankr.s2/ankr_project/notices.php?userid=1&auth=1_d9164f7631110fd0b265f8c9d5e79b67</url>
+        <poll_interval>86400</poll_interval>
+    </rss_feed>
+</rss_feeds>
+</scheduler_reply>

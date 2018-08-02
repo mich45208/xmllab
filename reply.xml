@@ -1,0 +1,142 @@
+<scheduler_reply>
+<scheduler_version>713</scheduler_version>
+<dont_use_dcf/>
+<master_url>http://ankr.s2/ankr_project/</master_url>
+<request_delay>7.000000</request_delay>
+<project_name>ankr_project</project_name>
+<userid>1</userid>
+<user_name>boincadm</user_name>
+<user_total_credit>28.162571</user_total_credit>
+<user_expavg_credit>2.482933</user_expavg_credit>
+<user_create_time>1532541545</user_create_time>
+<email_hash>1b2304eebb76ac5eb5409ee09bd590ef</email_hash>
+<cross_project_id>91a602aa42b7ef77aed044d7d4d2cbab</cross_project_id>
+<external_cpid>005413e4c13c23ba43aea92e710e4b0f</external_cpid>
+
+<host_total_credit>28.162571</host_total_credit>
+<host_expavg_credit>2.482933</host_expavg_credit>
+<host_venue></host_venue>
+<host_create_time>1532541557</host_create_time>
+<team_name></team_name>
+<app>
+    <name>mic_app</name>
+    <user_friendly_name>Michael Application</user_friendly_name>
+    <non_cpu_intensive>0</non_cpu_intensive>
+    <fraction_done_exact>0</fraction_done_exact>
+</app>
+<file_info>
+    <name>mic_app_1.0_x86_64-pc-linux-gnu</name>
+    <url>http://ankr.s2/ankr_project/download/mic_app_1.0_x86_64-pc-linux-gnu</url>
+    <executable/>
+    <file_signature>
+87839f9785c7dd0e1a9dcb8354c4f1a2bba1f8b5fb2374e096291d92007a22d4
+21b55bc4b4ee3ae94ee7eed4053109a63b37f57dd6b8cc040d16355aac3d826d
+b2daae96d755111129ce1cc983fe9185e84b9a17c60bdba538139ab672179026
+e43cb90b69e0afda9f1e6badbdcecb62c82902d88b56db9e9d9ef8bd7ec1054d
+.
+    </file_signature>
+    <nbytes>204320</nbytes>
+</file_info>
+<app_version>
+    <app_name>mic_app</app_name>
+    <version_num>100</version_num>
+    <api_version>6.13.0</api_version>
+<file_ref>
+    <file_name>mic_app_1.0_x86_64-pc-linux-gnu</file_name>
+    <main_program/>
+</file_ref>
+    <platform>x86_64-pc-linux-gnu</platform>
+    <avg_ncpus>1.000000</avg_ncpus>
+    <flops>4272806878.622552</flops>
+</app_version>
+<file_info>
+    <name>ten_input</name>
+    <url>http://ankr.s2/ankr_project/download/3f3/ten_input</url>
+    <md5_cksum>49da660ec59a81ccdb41131eef0ecb61</md5_cksum>
+    <nbytes>31</nbytes>
+</file_info>
+<workunit>
+    <rsc_fpops_est>3600000000000.000000</rsc_fpops_est>
+    <rsc_fpops_bound>86400000000000.000000</rsc_fpops_bound>
+    <rsc_memory_bound>500000000.000000</rsc_memory_bound>
+    <rsc_disk_bound>1000000000.000000</rsc_disk_bound>
+    <name>mc_ten</name>
+    <app_name>mic_app</app_name>
+<file_ref>
+    <file_name>ten_input</file_name>
+    <open_name>in</open_name>
+</file_ref>
+<command_line>
+-run_slow
+</command_line>
+</workunit>
+
+<file_info>
+    <name>mc_ten_0_r2054374584_0</name>
+    <generated_locally/>
+    <upload_when_present/>
+    <max_nbytes>5000000</max_nbytes>
+    <url>http://ankr.s2/ankr_project_cgi/file_upload_handler</url>
+</file_info>
+
+<result>
+<report_deadline>1533320586</report_deadline>
+<wu_name>mc_ten</wu_name>
+<name>mc_ten_0</name>
+    <file_ref>
+        <file_name>mc_ten_0_r2054374584_0</file_name>
+        <open_name>out</open_name>
+    </file_ref>
+
+    <platform>x86_64-pc-linux-gnu</platform>
+    <version_num>100</version_num>
+    <plan_class></plan_class>
+</result>
+
+<file_info>
+    <name>mc_ten_1_r1029850544_0</name>
+    <generated_locally/>
+    <upload_when_present/>
+    <max_nbytes>5000000</max_nbytes>
+    <url>http://ankr.s2/ankr_project_cgi/file_upload_handler</url>
+</file_info>
+
+<result>
+<report_deadline>1533320586</report_deadline>
+<wu_name>mc_ten</wu_name>
+<name>mc_ten_1</name>
+    <file_ref>
+        <file_name>mc_ten_1_r1029850544_0</file_name>
+        <open_name>out</open_name>
+    </file_ref>
+
+    <platform>x86_64-pc-linux-gnu</platform>
+    <version_num>100</version_num>
+    <plan_class></plan_class>
+</result>
+
+<gui_urls>
+    <gui_url>
+        <name>Message boards</name>
+        <description>Correspond with other users on the ankr_project message boards</description>
+        <url>http://ankr.s2/ankr_project/forum_index.php</url>
+    </gui_url>
+    <gui_url>
+        <name>Your account</name>
+        <description>View your account information</description>
+        <url>http://ankr.s2/ankr_project/home.php</url>
+    </gui_url>
+    <gui_url>
+        <name>Your tasks</name>
+        <description>View the last week or so of computational work</description>
+        <url>http://ankr.s2/ankr_project/results.php?userid=1</url>
+    </gui_url>
+    
+</gui_urls>
+<rss_feeds>
+    <rss_feed>
+        <url>http://ankr.s2/ankr_project/notices.php?userid=1&auth=1_d9164f7631110fd0b265f8c9d5e79b67</url>
+        <poll_interval>86400</poll_interval>
+    </rss_feed>
+</rss_feeds>
+</scheduler_reply>
